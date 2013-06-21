@@ -1,0 +1,25 @@
+<suite name="Toplevel TestNG configuration" verbose="10">
+  
+  <test name="Selenium Grid Demo firefox">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="SuiteRunner.TempForTesting"/>
+    </classes>
+  </test>
+  
+  <test name="Selenium Grid Demo chrome">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="SuiteRunner.TempForTesting"/>
+    </classes>
+  </test>
+  
+ <!--  <test name="Selenium Grid Demo iexplore">
+  <parameter name="browser" value="iexplore"/>
+    <classes>
+      <class name="testcases.atoZDatabases"/>
+    </classes>
+  </test>
+  -->
+  
+</suite>

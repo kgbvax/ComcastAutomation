@@ -1,0 +1,54 @@
+ : Xidio120613094009@test.com : 9987726361
+ : Xidio120613094129@test.com : 9988103173
+ : Xidio120613094247@test.com : 9992667916
+ : Xidio120613094401@test.com : 9998022646
+ : Xidio120613094516@test.com : 9994131492
+ : Xidio120613094559@test.com : 9996262254
+ : Xidio120613094701@test.com : 9980870999
+ : Xidio120613094836@test.com : 9986426690
+ : Xidio120613095037@test.com : 9994065071
+ : Xidio120613095629@test.com : 9986939234
+ : Xidio120613095847@test.com : 9989776553
+ : Xidio120613100126@test.com : 9988693063
+ : Xidio120613100341@test.com : 9989488659
+ : Xidio120613100606@test.com : 9993878861
+ : Xidio120613100835@test.com : 9985068329
+ : Xidio120613101105@test.com : 9992733765
+ : Xidio120613101231@test.com : Xidio120613101231@test.com : Xidio120613101231@test.com : Xidio120613101343@test.com : 9993589434
+ : Xidio120613101600@test.com : 9995149316
+ : Xidio120613101817@test.com : 9986815366
+ : Xidio120613102028@test.com : 9982655532
+ : Xidio120613102236@test.com : 9995663608
+ : Xidio120613102450@test.com : 9991010248
+ : Xidio120613102702@test.com : 9980701738
+ : Xidio120613102914@test.com : 9982803996
+ : Xidio120613103122@test.com : 9983062935
+ : Xidio120613103330@test.com : 9993111226
+ : Xidio120613103543@test.com : 9995403158
+ : Xidio120613103753@test.com : 9997843515
+ : Xidio120613104012@test.com : 9984964834
+ : Xidio120613104222@test.com : 9980234600
+ : Xidio120613104455@test.com : 9986297327
+ : Xidio120613104725@test.com : 9991285610
+ : Xidio120613104951@test.com : 9988873646
+UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoMandatoryFields
+ValidateChangePaymentInfoMandatoryFields
+UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoMandatoryFields
+ : Xidio120613105237@test.com : 9987038466
+ : Xidio120613105517@test.com : 9993882201
+ : Xidio120613105745@test.com : 9981460945
+ : Xidio120613110036@test.com : 9987352792
+ : Xidio120613110327@test.com : 9997572289
+ : Xidio120613110648@test.com : 9996260514
+ : Xidio120613110939@test.com : 9987862041
+ : Xidio120613111210@test.com : 9991624381
+ : Xidio120613111442@test.com : 9999678332
+ : Xidio120613111717@test.com : 9987072267
+ : Xidio120613111944@test.com : 9983275043
+ : Xidio120613112227@test.com : 9990606576
+ : Xidio120613112504@test.com : 9989001238
+ : Xidio120613112744@test.com : 9984309165
+ : Xidio120613113017@test.com : 9984282892
+ : Xidio120613113150@test.com : 9997817069
+ : Xidio120613113432@test.com : 9998841404
+

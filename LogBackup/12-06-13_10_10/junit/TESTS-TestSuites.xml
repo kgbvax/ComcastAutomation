@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="4" failures="14" hostname="BLRWKS0111" id="0" name="runATFRegression" package="SuiteRunner" tests="54" time="7005.295" timestamp="2013-06-12T16:09:30">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="env.DEFLOGDIR" value="C:\Documents and Settings\All Users\Application Data\McAfee\DesktopProtection" />
+
+          <property name="env.ORACLE_HOME" value="C:\oracle\ora92" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="os.name" value="Windows XP" />
+
+          <property name="env.FP_NO_HOST_CHECK" value="NO" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0\jre\classes" />
+
+          <property name="env.COMPUTERNAME" value="BLRWKS0111" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\Documents and Settings\All Users" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\apache-ant-1.7.0" />
+
+          <property name="java.runtime.version" value="1.6.0-b105" />
+
+          <property name="env.HOMEPATH" value="\Documents and Settings\harshith.gowda" />
+
+          <property name="env.__COMPAT_LAYER" value="EnableNXShowUI " />
+
+          <property name="user.name" value="harshith.gowda" />
+
+          <property name="env.IATF_HOME" value="F:\InfoGroupPhase1\ATFExecutor" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin" />
+
+          <property name="ant.project.name" value="Selenium_Web_Driver" />
+
+          <property name="java.version" value="1.6.0" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 15 Model 6 Stepping 5, GenuineIntel" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\endorsed" />
+
+          <property name="env.VSEDEFLOGDIR" value="C:\Documents and Settings\All Users\Application Data\McAfee\DesktopProtection" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.6.0\bin\java.exe" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.6.0\jre" />
+
+          <property name="env.APPDATA" value="C:\Documents and Settings\harshith.gowda\Application Data" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="env.CATALINA_HOME" value="C:\Program Files\Apache Software Foundation\Tomcat 6.0" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="F:\ComcastAutomation\build.xml" />
+
+          <property name="os.version" value="5.1" />
+
+          <property name="env._USE_CLASSPATH" value="yes" />
+
+          <property name="env.SAHI_HOME" value="C:\sahi_pro" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="1.6.0-b105" />
+
+          <property name="env.USERPROFILE" value="C:\Documents and Settings\harshith.gowda" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\apache-ant-1.7.0\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.6.0" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="ant.file.Selenium_Web_Driver" value="F:\ComcastAutomation\build.xml" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.home" value="C:\Documents and Settings\harshith.gowda" />
+
+          <property name="target" value="1.6" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.FIREFOX" value="C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="env.CLASSPATH" value="C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 6.0\lib" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="2" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Java\jre1.6.0\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\;C:\Program Files\Apache Software Foundation\Tomcat 6.0;C:\Program Files\ZipGenius 6\;C:\apache-ant-1.7.0\bin;C:\sahi_pro\bin;C:\soapUI-Pro-4.5.0\bin;C:\oracle\ora92\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;F:\InfoGroupPhase1\ATFExecutor\lib;C:\apache-ant-1.7.0\bin;C:\Program Files\Windows Imaging\;C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="env.USERDNSDOMAIN" value="IN.VALTECH.COM" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant version 1.7.0 compiled on December 13 2006" />
+
+          <property name="java.class.path" value="F:\ComcastAutomation\bin;F:\ComcastAutomation\Jars\selenium-server-standalone-2.32.0.jar;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 6.0\lib;C:\apache-ant-1.7.0\lib\ant-launcher.jar;C:\apache-ant-1.7.0\lib\ant.jar;C:\apache-ant-1.7.0\lib\ant-junit.jar" />
+
+          <property name="env.JPDA_TRANSPORT" value="dt_socket" />
+
+          <property name="env.SoapUI" value="C:\soapUI-Pro-4.5.0" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="env.LOGONSERVER" value="\\INBLR-AD04" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="Service Pack 3" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.ANT_HOME" value="C:\apache-ant-1.7.0" />
+
+          <property name="java.io.tmpdir" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp\" />
+
+          <property name="env.UATDATA" value="C:\WINDOWS\system32\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77" />
+
+          <property name="env.PROCESSOR_REVISION" value="0605" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value="runATFRegressionTC" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\ComcastAutomation" />
+
+          <property name="line.separator" value=" " />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PSC1;.RB;.RBW" />
+
+          <property name="env.JPDA_ADDRESS" value="8888" />
+
+          <property name="env.Path" value="C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Java\jre1.6.0\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\;C:\Program Files\Apache Software Foundation\Tomcat 6.0;C:\Program Files\ZipGenius 6\;C:\apache-ant-1.7.0\bin;C:\sahi_pro\bin;C:\soapUI-Pro-4.5.0\bin;C:\oracle\ora92\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;F:\InfoGroupPhase1\ATFExecutor\lib;C:\apache-ant-1.7.0\bin;C:\Program Files\Windows Imaging\;C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="basedir" value="F:\ComcastAutomation" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\apache-ant-1.7.0\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="harshith.gowda" />
+
+          <property name="source" value="1.6" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.USERDOMAIN" value="IN" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="env.PROCESSOR_LEVEL" value="15" />
+
+      </properties>
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithInvalidSecurityCode.UserRegWithInvalidSecurityCodeLength.RegisterToXidioApplicationWithInvalidSecurityCodeLength" name="testRegisterToXidioApplicationWithInvalidSecurityCodeLength" time="84.546">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithInvalidSecurityCode.UserRegWithInvalidSecurityCodeLength.RegisterToXidioApplicationWithInvalidSecurityCodeLength.testRegisterToXidioApplicationWithInvalidSecurityCodeLength(RegisterToXidioApplicationWithInvalidSecurityCodeLength.java:46)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithNoPINCode.RegisterToXidioApplicationWithNoPinCode" name="testRegisterToXidioApplicationWithNoCreditCardNumber" time="77.22">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithNoPINCode.RegisterToXidioApplicationWithNoPinCode.testRegisterToXidioApplicationWithNoCreditCardNumber(RegisterToXidioApplicationWithNoPinCode.java:37)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithInvalidPin.UserRegWithInvalidPinCodeCharLength.RegisterToXidioApplicationWithInvalidPinCodeCharLength" name="testRegisterToXidioApplicationWithInvalidSecurityCodeLength" time="73.878">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegWithInvalidPin.UserRegWithInvalidPinCodeCharLength.RegisterToXidioApplicationWithInvalidPinCodeCharLength.testRegisterToXidioApplicationWithInvalidSecurityCodeLength(RegisterToXidioApplicationWithInvalidPinCodeCharLength.java:38)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegToCheckDiplayPinCheckboxWorks.RegisterToXidioApplicationWithCheckingDiplayPinCheckbox" name="testRegisterToXidioApplicationWithInvalidSecurityCodeLength" time="89.529">
+          <error message="Element is not currently visible and so may not be interacted with Command duration or timeout: 30.04 seconds Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos; System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos; Session ID: 68e83ee2-d2f2-494f-976b-3caaa1963304 Driver info: org.openqa.selenium.firefox.FirefoxDriver Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]" type="org.openqa.selenium.ElementNotVisibleException">org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 30.04 seconds
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Session ID: 68e83ee2-d2f2-494f-976b-3caaa1963304
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegToCheckDiplayPinCheckboxWorks.RegisterToXidioApplicationWithCheckingDiplayPinCheckbox.testRegisterToXidioApplicationWithInvalidSecurityCodeLength(RegisterToXidioApplicationWithCheckingDiplayPinCheckbox.java:33)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Element is not currently visible and so may not be interacted with
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54903webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:7682)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54903webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10402)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54903webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10421)
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54903webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:386)
+</error>
+
+      </testcase>
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForCreditCardDetails.UserRegToCheckDiplayPasswordCheckboxWorks.RegisterToXidioApplicationWithCheckingDiplayPasswordCheckbox" name="testRegisterToXidioApplicationWithInvalidSecurityCodeLength" time="91.528" />
+
+      <testcase classname="UserManagement.UserRegistration.UserRegistrationTestCasesForActivationCode.UserRegWithoutActivationCode.RegisterUserWithoutActivationCode" name="testChangeActivationCode" time="97.369" />
+
+      <testcase classname="UserManagement.UserLogin.ValidateSignOutWorks.CheckSignOutFeatureWorksFine" name="testSignOutFeatureInCamcast" time="119.299" />
+
+      <testcase classname="DiagnoseServices.ValidateComcastWebApplicationAccessiblity.ValidateComcastAppAccessibility.LoginToXidioApplicationWithValidCredentials" name="testLoginToCamcast" time="128.951" />
+
+      <testcase classname="UserManagement.UserLogin.ValidateUserLoginUsingInValidCredentials.LoginToXidioApplicationUsingInValidPassword" name="testLoginToXidioApplicationUsingInValidPassword" time="34.972" />
+
+      <testcase classname="UserManagement.UserLogin.ValidateUserLoginUsingInValidCredentials.LoginToXidioApplicationUsingInValidPassword" name="testLoginToXidioApplicationUsingInValidPassword" time="39.704" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.ResetUserPassword.ResetTheXidioPassword" name="testResetTheXidioPassword" time="43.374" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.ResetUserPasswordWithNoEmail.ResetXidioPasswordWithoutProvidingEmailID" name="testResetXidioPasswordWithoutProvidingEmailID" time="42.703" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.ResetUserPasswordWithInvalidEmail.ResetTheXidioPasswordWithWrongEmail" name="testResetTheXidioPasswordWithWrongEmail" time="60.946" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateAddressField.EditXidioAddressInProfileManagement" name="testEditXidioAddressInProfileManagement" time="140.275" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateLastNameField.EditXidioLastNameInProfileManagement" name="testEditXidioLastNameInProfileManagement" time="159.518" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateAddressField.EditXidioAddressInProfileManagement" name="testEditXidioAddressInProfileManagement" time="134.34" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateCityField.EditXidioCityInProfileManagement" name="testEditXidioCityInProfileManagement" time="145.742" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateStateField.EditXidioStateInProfileManagement" name="testEditXidioStateInProfileManagement" time="148.272" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateZipField.EditXidioZipInProfileManagement" name="testEditXidioZipInProfileManagement" time="150.428" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateEmailField.EditXidioUserEmail" name="testEditXidioUserEmail" time="157.862" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ExitXidioUserMobileNumber" name="testEditXidioUserEmail" time="136.745">
+          <error message="expected:&lt;999[0487698]&gt; but was:&lt;999[3589434]&gt;" type="org.junit.ComparisonFailure">	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ExitXidioUserMobileNumber.testEditXidioUserEmail(ExitXidioUserMobileNumber.java:37)
+</error>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateFirstNameField.ValidateFirstNameFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="136.09">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateFirstNameField.ValidateFirstNameFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateFirstNameFieldByDeletingValue.java:35)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateLastNameField.ValidateLastNameFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="132.06">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateLastNameField.ValidateLastNameFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateLastNameFieldByDeletingValue.java:33)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateAddressField.ValidateAddressFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="127.577">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateAddressField.ValidateAddressFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateAddressFieldByDeletingValue.java:31)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateCityField.ValidateCityFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="131.95">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateCityField.ValidateCityFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateCityFieldByDeletingValue.java:31)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateZipField.ValidateZipFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="131.465" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateZipField.ValidateZipFieldByEnteringCharactersValue" name="testValidateUserNameFieldByDeletingValueInPM" time="132.762" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateZipField.ValidateZipFieldByEnteringInvalidZipLength" name="testValidateUserNameFieldByDeletingValueInPM" time="130.778" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateEmailField.ValidateEmailFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="127.233">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateEmailField.ValidateEmailFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateEmailFieldByDeletingValue.java:32)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateEmailField.ValidateEmailFieldByEnteringInvalidEmailID" name="testValidateUserNameFieldByDeletingValueInPM" time="132.731" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ValidateMobileNumberFieldByDeletingValue" name="testValidateUserNameFieldByDeletingValueInPM" time="129.966">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ValidateMobileNumberFieldByDeletingValue.testValidateUserNameFieldByDeletingValueInPM(ValidateMobileNumberFieldByDeletingValue.java:32)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ValidateMobileNumberFieldByEnteringInvalidNo" name="testValidateUserNameFieldByDeletingValueInPM" time="137.167" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ValidateMobileNumberFieldByEnteringExistingNo" name="testValidateUserNameFieldByDeletingValueInPM" time="131.341">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForEditProfileDetails.ValidateMobileNumberField.ValidateMobileNumberFieldByEnteringExistingNo.testValidateUserNameFieldByDeletingValueInPM(ValidateMobileNumberFieldByEnteringExistingNo.java:32)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.ValidateCurrentUserPassWhileChangingPass.ValidateCurrentPasswordWhenChangingPassword" name="testValidateCurrentPasswordWhenChangingPassword" time="153.489" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.ValidateNewAndConfirmPassword.ValidateNewPasswordAndConfirmPasswordMatch" name="testVerifyPasswordChangeWorks" time="149.866" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePassword.VerifyPasswordChangesSuccessfully.VerifyPasswordChangeWorks" name="testVerifyPasswordChangeWorks" time="145.383" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoMandatoryFields" name="testUserProfileChanges" time="167.218" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoDetailsUpdatedSuccessfully" name="testUserProfileChanges" time="159.252" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateCreditCardField.ValidatePaymentInfoCreditCardNumberWithInvalidInput" name="testUserProfileChanges" time="148.257">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateCreditCardField.ValidatePaymentInfoCreditCardNumberWithInvalidInput.testUserProfileChanges(ValidatePaymentInfoCreditCardNumberWithInvalidInput.java:47)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateExpiryMonthField.ValidatePaymentInfoMonthByEnteringInvalidMonth" name="testUserProfileChanges" time="170.108">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateExpiryMonthField.ValidatePaymentInfoMonthByEnteringInvalidMonth.testUserProfileChanges(ValidatePaymentInfoMonthByEnteringInvalidMonth.java:46)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateExpiryMonthField.ValidatePaymentInfoMonthMandatoryField" name="testUserProfileChanges" time="171.779">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateExpiryMonthField.ValidatePaymentInfoMonthMandatoryField.testUserProfileChanges(ValidatePaymentInfoMonthMandatoryField.java:46)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateYearField.ValidatePaymentInfoYearFieldByEnteringPastYear" name="testUserProfileChanges" time="201.533">
+          <error message="Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;html/body/div[1]/div[3]/div/div/div/form/div[2]/fieldset[1]/div[2]/label[3]/label&quot;} Command duration or timeout: 30.11 seconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos; System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos; Session ID: bd5dc575-b068-4543-8e3c-f0d7e76cf4b6 Driver info: org.openqa.selenium.firefox.FirefoxDriver Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;html/body/div[1]/div[3]/div/div/div/form/div[2]/fieldset[1]/div[2]/label[3]/label&quot;}
+Command duration or timeout: 30.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Session ID: bd5dc575-b068-4543-8e3c-f0d7e76cf4b6
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:344)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateYearField.ValidatePaymentInfoYearFieldByEnteringPastYear.testUserProfileChanges(ValidatePaymentInfoYearFieldByEnteringPastYear.java:49)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;html/body/div[1]/div[3]/div/div/div/form/div[2]/fieldset[1]/div[2]/label[3]/label&quot;}
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54980webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8405)
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous54980webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:386)
+</error>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateYearField.ValidatePaymentInfoYearMandatoryField" name="testUserProfileChanges" time="170.404">
+          <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateYearField.ValidatePaymentInfoYearMandatoryField.testUserProfileChanges(ValidatePaymentInfoYearMandatoryField.java:46)
+</failure>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateSecurityField.ValidatePaymentInfoSecurityCodeWithInvalidInputLength" name="testUserProfileChanges" time="151.005" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateSecurityField.ValidatePaymentInfoSecurityCodeByEnteringCharacters" name="testUserProfileChanges" time="151.771" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.VerifyChangePinCodeDetailsUpdatedSuccessfully" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="155.332" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.ValidateChangePinCodeAllMandatoryFields" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="146.195" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.ValidatePinCodeField.ValidateChangePinCodeByEnteringInvalidPinLength" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="163.626" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.ValidatePasswordField.ValidateChangePasswordByEnteringInvalidPass" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="157.175" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.ValidatePinCodeField.VerifyEnteredPinIsVisibleWhenUserClicksOnDisplayPin" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="159.611" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePinCode.ValidatePasswordField.VerifyEnteredPasswordIsVisibleWhenUserClicksOnDisplayPass" name="testVerifyChangePinCodeDetailsUpdatedSuccessfully" time="151.583" />
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangeActivationCode.ChangeActivationCodeWithValidAC.ValidateUserActivationCodeUpdatesSuccessfully" name="testChangeActivationCode" time="92.637">
+          <error message="Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Skip activation, go to XIDIO&quot;} Command duration or timeout: 30.08 seconds For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos; System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos; Session ID: e1929eeb-3d60-45c1-a6ee-255a7ca00b7f Driver info: org.openqa.selenium.firefox.FirefoxDriver Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Skip activation, go to XIDIO&quot;}
+Command duration or timeout: 30.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Session ID: e1929eeb-3d60-45c1-a6ee-255a7ca00b7f
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=21.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:356)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:241)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at DataServices.UserRegistrationUsingComcastApplication.UserRegistrationUsingComcast.testUserRegistrationUsingComcast(UserRegistrationUsingComcast.java:36)
+	at UserManagement.ProfileManagement.RegisteredUserTestCasesForChangeActivationCode.ChangeActivationCodeWithValidAC.ValidateUserActivationCodeUpdatesSuccessfully.testChangeActivationCode(ValidateUserActivationCodeUpdatesSuccessfully.java:25)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Skip activation, go to XIDIO&quot;}
+Build info: version: &apos;2.32.0&apos;, revision: &apos;6c40c18&apos;, time: &apos;2013-04-09 17:22:56&apos;
+System info: os.name: &apos;Windows XP&apos;, os.arch: &apos;x86&apos;, os.version: &apos;5.1&apos;, java.version: &apos;1.6.0&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous55000webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8405)
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/DOCUME~1/HARSHI~1.GOW/LOCALS~1/Temp/anonymous55000webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:386)
+</error>
+
+      </testcase>
+
+      <testcase classname="UserManagement.ProfileManagement.RegisteredUserTestCasesForChangeActivationCode.ChangeActivationCodeWithInValidAC.ValidateUserActivationCodeByEnteringInvalidCode" name="testChangeActivationCode" time="160.893" />
+
+      <testcase classname="DiagnoseServices.ValidateComcastWebApplicationAccessiblity.ValidateComcastAppAccessibility.LoginToXidioApplicationWithValidCredentials" name="testLoginToCamcast" time="138.388" />
+
+      <system-out><![CDATA[ : Xidio120613094009@test.com : 9987726361
+ : Xidio120613094129@test.com : 9988103173
+ : Xidio120613094247@test.com : 9992667916
+ : Xidio120613094401@test.com : 9998022646
+ : Xidio120613094516@test.com : 9994131492
+ : Xidio120613094559@test.com : 9996262254
+ : Xidio120613094701@test.com : 9980870999
+ : Xidio120613094836@test.com : 9986426690
+ : Xidio120613095037@test.com : 9994065071
+ : Xidio120613095629@test.com : 9986939234
+ : Xidio120613095847@test.com : 9989776553
+ : Xidio120613100126@test.com : 9988693063
+ : Xidio120613100341@test.com : 9989488659
+ : Xidio120613100606@test.com : 9993878861
+ : Xidio120613100835@test.com : 9985068329
+ : Xidio120613101105@test.com : 9992733765
+ : Xidio120613101231@test.com : Xidio120613101231@test.com : Xidio120613101231@test.com : Xidio120613101343@test.com : 9993589434
+ : Xidio120613101600@test.com : 9995149316
+ : Xidio120613101817@test.com : 9986815366
+ : Xidio120613102028@test.com : 9982655532
+ : Xidio120613102236@test.com : 9995663608
+ : Xidio120613102450@test.com : 9991010248
+ : Xidio120613102702@test.com : 9980701738
+ : Xidio120613102914@test.com : 9982803996
+ : Xidio120613103122@test.com : 9983062935
+ : Xidio120613103330@test.com : 9993111226
+ : Xidio120613103543@test.com : 9995403158
+ : Xidio120613103753@test.com : 9997843515
+ : Xidio120613104012@test.com : 9984964834
+ : Xidio120613104222@test.com : 9980234600
+ : Xidio120613104455@test.com : 9986297327
+ : Xidio120613104725@test.com : 9991285610
+ : Xidio120613104951@test.com : 9988873646
+UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoMandatoryFields
+ValidateChangePaymentInfoMandatoryFields
+UserManagement.ProfileManagement.RegisteredUserTestCasesForChangePaymentInfo.ValidateChangePaymentInfoMandatoryFields
+ : Xidio120613105237@test.com : 9987038466
+ : Xidio120613105517@test.com : 9993882201
+ : Xidio120613105745@test.com : 9981460945
+ : Xidio120613110036@test.com : 9987352792
+ : Xidio120613110327@test.com : 9997572289
+ : Xidio120613110648@test.com : 9996260514
+ : Xidio120613110939@test.com : 9987862041
+ : Xidio120613111210@test.com : 9991624381
+ : Xidio120613111442@test.com : 9999678332
+ : Xidio120613111717@test.com : 9987072267
+ : Xidio120613111944@test.com : 9983275043
+ : Xidio120613112227@test.com : 9990606576
+ : Xidio120613112504@test.com : 9989001238
+ : Xidio120613112744@test.com : 9984309165
+ : Xidio120613113017@test.com : 9984282892
+ : Xidio120613113150@test.com : 9997817069
+ : Xidio120613113432@test.com : 9998841404
+]]></system-out>
+
+      <system-err />
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="BLRWKS0111" id="1" name="runDemoTestSuite" package="SuiteRunner" tests="1" time="104.609" timestamp="2013-06-10T14:34:03">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="env.DEFLOGDIR" value="C:\Documents and Settings\All Users\Application Data\McAfee\DesktopProtection" />
+
+          <property name="env.ORACLE_HOME" value="C:\oracle\ora92" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="env.PROMPT" value="$P$G" />
+
+          <property name="os.name" value="Windows XP" />
+
+          <property name="env.FP_NO_HOST_CHECK" value="NO" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.6.0\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0\jre\classes" />
+
+          <property name="env.COMPUTERNAME" value="BLRWKS0111" />
+
+          <property name="env.ALLUSERSPROFILE" value="C:\Documents and Settings\All Users" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\apache-ant-1.7.0" />
+
+          <property name="java.runtime.version" value="1.6.0-b105" />
+
+          <property name="env.HOMEPATH" value="\Documents and Settings\harshith.gowda" />
+
+          <property name="env.__COMPAT_LAYER" value="EnableNXShowUI " />
+
+          <property name="user.name" value="harshith.gowda" />
+
+          <property name="env.IATF_HOME" value="F:\InfoGroupPhase1\ATFExecutor" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin" />
+
+          <property name="ant.project.name" value="Selenium_Web_Driver" />
+
+          <property name="java.version" value="1.6.0" />
+
+          <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 15 Model 6 Stepping 5, GenuineIntel" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.TEMP" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\endorsed" />
+
+          <property name="env.VSEDEFLOGDIR" value="C:\Documents and Settings\All Users\Application Data\McAfee\DesktopProtection" />
+
+          <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.6.0\bin\java.exe" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="env.HOMEDRIVE" value="C:" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.6.0\jre" />
+
+          <property name="env.APPDATA" value="C:\Documents and Settings\harshith.gowda\Application Data" />
+
+          <property name="java.vm.info" value="mixed mode, sharing" />
+
+          <property name="env.CATALINA_HOME" value="C:\Program Files\Apache Software Foundation\Tomcat 6.0" />
+
+          <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+
+          <property name="env.OS" value="Windows_NT" />
+
+          <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+
+          <property name="ant.file" value="F:\ComcastAutomation\build.xml" />
+
+          <property name="os.version" value="5.1" />
+
+          <property name="env._USE_CLASSPATH" value="yes" />
+
+          <property name="env.SAHI_HOME" value="C:\sahi_pro" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="1.6.0-b105" />
+
+          <property name="env.USERPROFILE" value="C:\Documents and Settings\harshith.gowda" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\apache-ant-1.7.0\lib" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.6.0" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="env.TMP" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="ant.file.Selenium_Web_Driver" value="F:\ComcastAutomation\build.xml" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.home" value="C:\Documents and Settings\harshith.gowda" />
+
+          <property name="target" value="1.6" />
+
+          <property name="env.SESSIONNAME" value="Console" />
+
+          <property name="env.FIREFOX" value="C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="env.CLASSPATH" value="C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 6.0\lib" />
+
+          <property name="env.NUMBER_OF_PROCESSORS" value="2" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.6.0\jre\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Java\jre1.6.0\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\;C:\Program Files\Apache Software Foundation\Tomcat 6.0;C:\Program Files\ZipGenius 6\;C:\apache-ant-1.7.0\bin;C:\sahi_pro\bin;C:\soapUI-Pro-4.5.0\bin;C:\oracle\ora92\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;F:\InfoGroupPhase1\ATFExecutor\lib;C:\apache-ant-1.7.0\bin;C:\Program Files\Windows Imaging\;C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="env.USERDNSDOMAIN" value="IN.VALTECH.COM" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant version 1.7.0 compiled on December 13 2006" />
+
+          <property name="java.class.path" value="F:\ComcastAutomation\bin;F:\ComcastAutomation\Jars\selenium-server-standalone-2.32.0.jar;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 6.0\lib;C:\apache-ant-1.7.0\lib\ant-launcher.jar;C:\apache-ant-1.7.0\lib\ant.jar;C:\apache-ant-1.7.0\lib\ant-junit.jar" />
+
+          <property name="env.JPDA_TRANSPORT" value="dt_socket" />
+
+          <property name="env.SoapUI" value="C:\soapUI-Pro-4.5.0" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="env.windir" value="C:\WINDOWS" />
+
+          <property name="env.LOGONSERVER" value="\\INBLR-AD04" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="Service Pack 3" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.ProgramFiles" value="C:\Program Files" />
+
+          <property name="env.ANT_HOME" value="C:\apache-ant-1.7.0" />
+
+          <property name="java.io.tmpdir" value="C:\DOCUME~1\HARSHI~1.GOW\LOCALS~1\Temp\" />
+
+          <property name="env.UATDATA" value="C:\WINDOWS\system32\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77" />
+
+          <property name="env.PROCESSOR_REVISION" value="0605" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="env.SystemRoot" value="C:\WINDOWS" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="env.ANT_CMD_LINE_ARGS" value="runATFTestSuite" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.6.0\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="F:\ComcastAutomation" />
+
+          <property name="line.separator" value=" " />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.PSC1;.RB;.RBW" />
+
+          <property name="env.JPDA_ADDRESS" value="8888" />
+
+          <property name="env.Path" value="C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\Program Files\Java\jdk1.6.0\bin;C:\Program Files\Java\jre1.6.0\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\ATI Technologies\ATI.ACE\;C:\Program Files\Apache Software Foundation\Tomcat 6.0;C:\Program Files\ZipGenius 6\;C:\apache-ant-1.7.0\bin;C:\sahi_pro\bin;C:\soapUI-Pro-4.5.0\bin;C:\oracle\ora92\bin;C:\Program Files\TortoiseSVN\bin;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;F:\InfoGroupPhase1\ATFExecutor\lib;C:\apache-ant-1.7.0\bin;C:\Program Files\Windows Imaging\;C:\Program Files\Mozilla Firefox\firefox.exe" />
+
+          <property name="basedir" value="F:\ComcastAutomation" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\apache-ant-1.7.0\lib\ant.jar" />
+
+          <property name="env.USERNAME" value="harshith.gowda" />
+
+          <property name="source" value="1.6" />
+
+          <property name="env.SystemDrive" value="C:" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="env.USERDOMAIN" value="IN" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="env.PROCESSOR_LEVEL" value="15" />
+
+      </properties>
+
+      <testcase classname="UserManagement.UserRegistration.RegisterToXidioApplicationUsingValidCredentials" name="testUserRegistration" time="104.328" />
+
+      <system-out><![CDATA[Xidio100613080433@test.com9995248263
+Xidio100613080444@test.com9997205205
+Xidio100613080444@test.comEmail : Xidio100613075424@test.com
+Mobile  No: 9990785010
+]]></system-out>
+
+      <system-err />
+
+  </testsuite>
+</testsuites>
